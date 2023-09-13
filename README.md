@@ -7,9 +7,8 @@ The course is led by a researcher from the Ethereum Foundation, giving you a uni
 
 If you're excited to explore the latest in cryptography and see how it's used in practice, we can't wait to welcome you to this course!
 
-:::warning
-Please note: This course will be delivered in **<u>Korean</u>** to facilitate a deeper understanding and exploration of complex concepts.
-:::
+> **Warning**
+> Please note: This course will be delivered in **<u>Korean</u>** to facilitate a deeper understanding and exploration of complex concepts.
 
 
 ## Summary of Lecture
