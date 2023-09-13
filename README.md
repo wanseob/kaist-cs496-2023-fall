@@ -36,8 +36,8 @@ Not meeting the attendance requirement or not submitting one or both projects, d
 
 | Week # | Category | Topic |
 |--------------|----------|-------|
-| Week 1 - Aug 30 | Kick-off | Dive into the Fascinating World of Cryptography |
-| Week 2 - Sep 6 | Cryptography Basics | Unraveling Abstract Algebra and Its Role in Cryptography (Group Theory, Number Theory, Caesar, RSA, DLOG) |
+| Week 1 - Aug 30 | Kick-off | [Dive into the Fascinating World of Cryptography](./lecture-00/index.html) |
+| Week 2 - Sep 6 | Cryptography Basics | [Unraveling Abstract Algebra and Its Role in Cryptography (Group Theory, Number Theory, Caesar, RSA, DLOG)](./lecture-01/index.html) |
 | Week 3 - Sep 13 | | Exploring Elliptic Curve Cryptography and Its Wide Applications |
 | Week 4 - Sep 20 | Pairing-Based Cryptography | Deciphering Bi-linear Mapping, BLS Signature, Polynomial Commitment, and Shamir Secret Sharing |
 | Week 5 - Sep 27 | Journey into zkSNARKs | Building a Mental Model and Glimpsing into its Applications |
