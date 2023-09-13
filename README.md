@@ -37,7 +37,7 @@ Not meeting the attendance requirement or not submitting one or both projects, d
 |--------------|----------|-------|
 | Week 1 - Aug 30 | Kick-off | [Dive into the Fascinating World of Cryptography](./lecture-00/index.html) |
 | Week 2 - Sep 6 | Cryptography Basics | [Unraveling Abstract Algebra and Its Role in Cryptography (Group Theory, Number Theory, Caesar, RSA, DLOG)](./lecture-01/index.html) |
-| Week 3 - Sep 13 | Elliptic Curve Cryptography | Exploring ECC/PBC and Its Wide Applications](./lecture-02/index.html) |
+| Week 3 - Sep 13 | Elliptic Curve Cryptography | [Exploring ECC/PBC and Its Wide Applications](./lecture-02/index.html) |
 | Week 4 - Sep 20 | Polynomial-(N)IOPs | Variants of Polynomial Commitment and Polynomial Oracles |
 | Week 5 - Sep 27 | Journey into zkSNARKs | Building a Mental Model and Glimpsing into its Applications |
 | Week 6 - Oct 4 | | Unpacking R1CS, Pinocchio, and Groth16 |
