@@ -40,7 +40,7 @@ Not meeting the attendance requirement or not submitting one or both projects, d
 | Week 3 - Sep 13 | Elliptic Curve Cryptography | [Exploring ECC/PBC and Its Wide Applications](./lecture-02/index.html) |
 | Week 4 - Sep 20 | Polynomial-(N)IOPs | [Variants of Polynomial Commitment and Polynomial Oracles](./lecture-03/index.html) |
 | Week 5 - Sep 27 | | (Chuseok) |
-| Week 6 - Oct 4 | Journey into zkSNARKs | Programmable zkSNARK: Unpacking R1CS, QAP, and Groth16 |
+| Week 6 - Oct 4 | Journey into zkSNARKs | [Programmable zkSNARK: Unpacking R1CS, QAP, and Groth16](./lecture-04/index.html) |
 | Week 7 - Oct 11 | Hands-on Session | Glimpsing into the ZK Applications /  Crafting Circuits using Circom |
 | Week 8 - Oct 18 | Mid-term Milestone | Mid-term Assignment Submission |
 | Week 9 - Oct 25 | The Plonk Adventure | Introduction to Plonkish Arithmetization |
