@@ -1,5 +1,8 @@
 ## Who Should Take This Course?
 
+> **Warning**
+> Notice: The lecture scheduled for October 11th will be conducted online via Zoom. The link to join will be provided [insert additional details on where/how the link will be provided.
+
 This course is perfect for students who are really interested in Ethereum, cryptography, and love the challenge of complex math. It's ideal for those who are into computer science or math
 and are curious about how these areas are changing our world.
 
@@ -41,7 +44,7 @@ Not meeting the attendance requirement or not submitting one or both projects, d
 | Week 4 - Sep 20 | Polynomial-(N)IOPs | [Variants of Polynomial Commitment and Polynomial Oracles](./lecture-03/index.html) |
 | Week 5 - Sep 27 | | (Chuseok) |
 | Week 6 - Oct 4 | Journey into zkSNARKs | [Programmable zkSNARK: Unpacking R1CS, QAP, and Groth16](./lecture-04/index.html) |
-| Week 7 - Oct 11 | Hands-on Session | Glimpsing into the ZK Applications /  Crafting Circuits using Circom |
+| Week 7 - Oct 11 | Hands-on Session(Online) | \[Online\]Glimpsing into the ZK Applications /  Crafting Circuits using Circom |
 | Week 8 - Oct 18 | Mid-term Milestone | Mid-term Assignment Submission |
 | Week 9 - Oct 25 | The Plonk Adventure | Introduction to Plonkish Arithmetization |
 | Week 10 - Nov 1 | | Lookup Arguments |
