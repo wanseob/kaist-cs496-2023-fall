@@ -1,7 +1,11 @@
 ## Who Should Take This Course?
 
-> **Warning**
-> Notice: The lecture scheduled for October 11th will be conducted online via Zoom. The link to join will be provided [insert additional details on where/how the link will be provided.
+> **Important**
+> The lecture scheduled for **October 11th** will be conducted **online via Zoom**. The link to join will be provided.
+
+
+***
+
 
 This course is perfect for students who are really interested in Ethereum, cryptography, and love the challenge of complex math. It's ideal for those who are into computer science or math
 and are curious about how these areas are changing our world.
