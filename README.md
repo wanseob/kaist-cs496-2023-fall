@@ -50,7 +50,7 @@ Not meeting the attendance requirement or not submitting one or both projects, d
 | Week 6 - Oct 4 | Journey into zkSNARKs | [Programmable zkSNARK: Unpacking R1CS, QAP, and Groth16](./lecture-04/index.html) |
 | Week 7 - Oct 11 | Hands-on Session(Online) | [\[Online\]]((https://kaist.zoom.us/j/6873841846))Glimpsing into the ZK Applications /  [Crafting Circuits using Circom](./lecture-05/index.html) |
 | Week 8 - Oct 18 | Mid-term Milestone | Mid-term Assignment Submission |
-| Week 9 - Oct 25 | The Plonk Adventure | Introduction to Plonkish Arithmetization |
+| Week 9 - Oct 25 | The Plonk Adventure | [Introduction to Plonkish Arithmetization](./lecture-06/index.html) |
 | Week 10 - Nov 1 | | Lookup Arguments |
 | Week 11 - Nov 8 | Hands-on Session | Utilizing Lookup Arguments with Halo2 |
 | Week 12 - Nov 15 | Breather | No Class |
