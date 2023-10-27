@@ -51,9 +51,9 @@ Not meeting the attendance requirement or not submitting one or both projects, d
 | Week 7 - Oct 11 | Hands-on Session(Online) | [\[Online\]]((https://kaist.zoom.us/j/6873841846))Glimpsing into the ZK Applications /  [Crafting Circuits using Circom](./lecture-05/index.html) |
 | Week 8 - Oct 18 | Mid-term Milestone | Mid-term Assignment Submission |
 | Week 9 - Oct 25 | The Plonk Adventure | [Introduction to Plonkish Arithmetization](./lecture-06/index.html) |
-| Week 10 - Nov 1 | | Lookup Arguments |
-| Week 11 - Nov 8 | Hands-on Session | Utilizing Lookup Arguments with Halo2 |
-| Week 12 - Nov 15 | Breather | No Class |
+| Week 10 - Nov 1 | Breather | No Class |
+| Week 11 - Nov 8 | | Lookup Arguments & Custom Gates / Paradigm Shifts to the multivariate polynomials |
+| Week 12 - Nov 15 | Hands-on Session(Online)| (Online)Utilizing Lookup Arguments with Halo2 |
 | Week 13 - Nov 22 | | Diving into Recent Researches in Cryptography #1 (lookup arguments) |
 | Week 14 - Nov 29 | Breather | No Class |
 | Week 15 - Dec 6 | | Diving into Recent Researches in Cryptography #2 (folding schemes) |
