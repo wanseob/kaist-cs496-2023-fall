@@ -1,7 +1,7 @@
 ## Who Should Take This Course?
 
 > **Important**
-> The lecture scheduled for **October 11th** will be conducted **online [via Zoom](https://kaist.zoom.us/j/6873841846)**.
+> The lecture scheduled for **November 15th** will be conducted **online [via Zoom](https://kaist.zoom.us/j/6873841846)**.
 
 
 ***
@@ -53,7 +53,7 @@ Not meeting the attendance requirement or not submitting one or both projects, d
 | Week 9 - Oct 25 | The Plonk Adventure | [Introduction to Plonkish Arithmetization](./lecture-06/index.html) |
 | Week 10 - Nov 1 | Breather | No Class |
 | Week 11 - Nov 8 | | [Paradigm Shifts to the multivariate polynomials](./lecture-07/index.html) |
-| Week 12 - Nov 15 | Hands-on Session(Online)| (Online)Utilizing Lookup Arguments with Halo2 |
+| Week 12 - Nov 15 | Lookup Argument(Online)| [\[Online\]](https://kaist.zoom.us/j/6873841846) [Custom Gates & Utilizing Lookup Arguments](./lecture-08/index.html) |
 | Week 13 - Nov 22 | | Diving into Recent Researches in Cryptography #1 (lookup arguments) |
 | Week 14 - Nov 29 | Breather | No Class |
 | Week 15 - Dec 6 | | Diving into Recent Researches in Cryptography #2 (folding schemes) |
