@@ -1,12 +1,5 @@
 ## Who Should Take This Course?
 
-> **Important**
-> The lecture scheduled for **November 15th** will be conducted **online [via Zoom](https://kaist.zoom.us/j/6873841846)**.
-
-
-***
-
-
 This course is perfect for students who are really interested in Ethereum, cryptography, and love the challenge of complex math. It's ideal for those who are into computer science or math
 and are curious about how these areas are changing our world.
 
