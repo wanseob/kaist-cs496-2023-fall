@@ -54,9 +54,9 @@ Not meeting the attendance requirement or not submitting one or both projects, d
 | Week 10 - Nov 1 | Breather | No Class |
 | Week 11 - Nov 8 | | [Paradigm Shifts to the multivariate polynomials](./lecture-07/index.html) |
 | Week 12 - Nov 15 | Lookup Argument(Online)| [\[Online\]](https://kaist.zoom.us/j/6873841846) [Custom Gates & Utilizing Lookup Arguments](./lecture-08/index.html) |
-| Week 13 - Nov 22 | | Diving into Recent Researches in Cryptography #1 (lookup arguments) |
-| Week 14 - Nov 29 | Breather | No Class |
-| Week 15 - Dec 6 | | Diving into Recent Researches in Cryptography #2 (folding schemes) |
+| Week 13 - Nov 22 | | [Folding Schemes](./lecture-09/index.html) |
+| Week 14 - Nov 29 | Breather | Office hour |
+| Week 15 - Dec 6 | | Wrap-up Class / [Final Assignment](./final-assignment.pdf) |
 | Week 16 - Dec 13 | Final Milestone | Final Assignment Submission |
 
 This schedule may be subject to change. Always refer to the most recent version for updates.
