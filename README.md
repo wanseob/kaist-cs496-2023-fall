@@ -1,5 +1,8 @@
 ## Who Should Take This Course?
 
+> **Important**
+> Here are some [open tasks](https://github.com/privacy-scaling-explorations/acceleration-program/issues) that you can try to contribute to.
+
 This course is perfect for students who are really interested in Ethereum, cryptography, and love the challenge of complex math. It's ideal for those who are into computer science or math
 and are curious about how these areas are changing our world.
 
